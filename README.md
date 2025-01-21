@@ -66,6 +66,7 @@ Estas medidas de seguridad se combinan para proporcionar un entorno seguro y pro
 - **PostgreSQL**: Sistema de gestión de bases de datos.
 - **JWT (Json Web Token)**: Autenticación basada en tokens.
 - **BCrypt**: Encriptación de contraseñas.
+- **API REST**: Uso de una API Rest con metodos HTTP/CRUD 
 
 ## Personas Contribuyentes
 - Javier Lainez
