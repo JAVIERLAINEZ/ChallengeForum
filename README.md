@@ -72,7 +72,7 @@ Estas medidas de seguridad se combinan para proporcionar un entorno seguro y pro
 - Oracle a través de su programa ONE, en colaboración con Alura Latam.  
 
 ## Personas Desarrolladoras del Proyecto
-- Javier Lainez
+- Javier Lainez, lainezjavier@outlook.com
 
 ## Licencia
 Este proyecto está bajo licencia libre.
